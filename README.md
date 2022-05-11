@@ -1,4 +1,4 @@
-# Lab6
+# Lab6_1_2
 
 ## Editting the file
 
